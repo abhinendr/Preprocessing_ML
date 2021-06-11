@@ -3,7 +3,9 @@
 ### A Data Analyst & Machine Learning Enthusiast 
 
 🌱 I’m currently learning ML Concepts to Predict, Forecast and Analyse
+
 📫 How to reach me: sharmaabhinendr@gmail.com
+
 ⚡ Fun fact: The moon has moonquakes.
 
 <!--
