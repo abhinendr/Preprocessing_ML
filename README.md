@@ -2,7 +2,7 @@
 
 ### A Data Analyst & Machine Learning Enthusiast 
 
-🌱 I’m currently learning ML Concepts to Predict, Forecast and Analyse
+🌱 I’m currently learning ML Concepts to Predict, Forecast and Analyze
 
 📫 How to reach me: sharmaabhinendr@gmail.com
 
